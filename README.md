@@ -1,2 +1,2 @@
 # hackerrank-Solution
-My solution in Hackerrank
+My Journey in Hackerrank Algorithm

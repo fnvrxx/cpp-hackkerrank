@@ -1,2 +1,2 @@
 # hackerrank-Solution
-My Journey in Hackerrank Algorithm
+Ini adalah perjuangan belajar c++ dari pemula menjadi profesional
